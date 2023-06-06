@@ -46,7 +46,7 @@ body {
     width: 628px;
     height: 663px;
     margin: 0 auto;
-    background: url('./Images/onboardingImage.png') no-repeat center center;
+    background: url('/Images/onboardingImage.png') no-repeat center center;
 
     background-size: cover;
     border-radius: 8px;
