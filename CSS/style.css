@@ -71,7 +71,7 @@ body {
   }
   
   h1 {
-    animation: fadeIn 4s ease-out; /* Animation applied*/
+    animation: fadeIn 3s ease-out; /* Animation applied*/
     margin-top: 150px !important;
     position: relative;
     font-family: 'Fira Sans'; 
@@ -85,7 +85,7 @@ body {
   
   .briefDespPara {
     
-        animation: fadeIn 6s ease-out; /* Animation applied*/
+        animation: fadeIn 3s ease-out; /* Animation applied*/
     
     position: relative;
    
